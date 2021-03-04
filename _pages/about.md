@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Alia Hamwi
+Welcome! I am Alia Hamwi.
+
+The website is under construction ...
